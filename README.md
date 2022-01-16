@@ -1,2 +1,2 @@
-# dice-game
-Deploy Link :- https://dice-game-akashpanwar4411.netlify.app/
+# Two Player Dice Game
+Deploy Link :- https://akashpanwar4411-dice-game.netlify.app/
